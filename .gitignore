@@ -1,0 +1,106 @@
+# Flutter-specific files
+.dart_tool/
+.buildlog/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Visual Studio Code
+*.code-workspace
+
+# Flutter/Dart/Pub related
+**/doc/api/
+
+# Ignore IntelliJ project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Editors and IDEs
+*.swp
+*~.nib
+.DS_Store
+Thumbs.db
+app.iml
+ios/Flutter/.last_build_id
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Gradle files
+**/android/.gradle/
+**/android/.idea/
+**/android/local.properties
+**/android/app/build/
+**/android/app/app.iml
+**/android/*.iml
+**/android/captures/
+
+# Xcode files
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/ephemeral/
+**/ios/Flutter/FlutterPluginRegistrant/
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# iOS build files
+**/ios/Runner.xcworkspace/
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.xcframework/
+
+# Firebase Crashlytics files
+**/ios/Pods/FirebaseCrashlytics/upload-symbols
+**/ios/Pods/FirebaseCrashlytics/upload-symbols-crashlytics
+
+# Android Studio files
+**/android/.idea/
+**/android/.gradle/
+**/android/local.properties
+**/android/app/build/
+**/android/*.iml
+**/android/captures/
+
+# Flutter build files
+**/build/
+**/ios/.symlinks/
+**/ios/Pods/
+**/ios/Flutter/
+**/ios/.generated/
+
+# macOS build files
+**/macos/Flutter/ephemeral/
+**/macos/.symlinks/
+**/macos/Pods/
+**/macos/Flutter/
+
+# Web build files
+**/web/.dart_tool/
+**/web/build/
+
+# Windows build files
+**/windows/.dart_tool/
+**/windows/.windows/
+**/windows/flutter/
+**/windows/.flutter/
+
+# Linux build files
+**/linux/.dart_tool/
+**/linux/.flutter/
+
+# Google Analytics for Firebase
+**/ios/Pods/GoogleAnalytics
+
+# Flutter plugin config
+.flutter-plugins-dependencies
+.flutter-plugins
